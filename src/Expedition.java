@@ -13,6 +13,8 @@ public class Expedition {
 
     public Expedition() {
 
+        map = new char [0][0];
+
         row =-1;
         column =-1;
 
